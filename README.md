@@ -1,2 +1,2 @@
 # Telco-Manual-Testing
-This repository contains steps to perform manual testing for telco related test cases. Including new postpaid registration, MNP registration, device plan subscription etc.
+This repository contains sample test cases covering scenarios in projects related to telecommunication and e-commerce that has been prepared by me during my tenure as software QA.
